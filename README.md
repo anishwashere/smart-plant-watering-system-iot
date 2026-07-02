@@ -37,7 +37,27 @@ images/
 
 ## Screenshots
 
-Project images are available in the `images` folder.
+### Hardware Setup
+![Hardware](images/hardware_setup.jpeg)
+
+### Blynk Dashboard
+![Dashboard](images/dashboard.jpeg)
+
+### Block Diagram
+![Block Diagram](images/block_diagram.jpeg)
+
+### Project Poster
+![Poster](images/project_poster.jpeg)
+
+## Demo
+
+The system automatically:
+
+- Reads soil moisture.
+- Turns the water pump ON when soil is dry.
+- Turns the pump OFF when moisture is sufficient.
+- Displays pump status on an LED.
+- Allows manual control through the Blynk IoT app.
 
 ## Author
 
