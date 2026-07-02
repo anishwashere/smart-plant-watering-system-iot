@@ -59,6 +59,15 @@ The system automatically:
 - Displays pump status on an LED.
 - Allows manual control through the Blynk IoT app.
 
+## Tech Stack
+
+- ESP8266 NodeMCU
+- Arduino IDE
+- C++
+- Blynk IoT
+- Git
+- GitHub
+  
 ## Author
 
 Anish Joglekar
